@@ -1,5 +1,9 @@
 # Slackmoji
 
+Troll your friends into posting to Slack whatever you'd like.
+
+[![Slackmoji](http://img.youtube.com/vi/viQ0iBHyrH8/0.jpg)](https://www.youtube.com/watch?v=viQ0iBHyrH8&feature=youtu.be&hd=1 "Slackmoji")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
